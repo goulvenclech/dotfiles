@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Arc+",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "all",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "vetur.validation.template": false,
+    "eslint.lintTask.enable": true,
+    "stylelint.autoFixOnSave": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "git.autofetch": true,
+}

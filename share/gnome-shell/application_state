@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="spotify.desktop" score="26" last-seen="1591538588"/>
+    <application id="libreoffice-writer.desktop" score="1109" last-seen="1591528790"/>
+    <application id="org.gnome.Evince.desktop" score="7" last-seen="1591374224"/>
+    <application id="org.gnome.tweaks.desktop" score="12" last-seen="1591561126"/>
+    <application id="brave-browser.desktop" score="15548" last-seen="1591561287"/>
+    <application id="wine.desktop" score="14753" last-seen="1591549558"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="10" last-seen="1591121545"/>
+    <application id="wine-Programs-League of Legends-League of Legends.desktop" score="8" last-seen="1591182121"/>
+    <application id="org.kde.krita.desktop" score="11" last-seen="1591524427"/>
+    <application id="repoman.desktop" score="0" last-seen="1591117706"/>
+    <application id="gnome-control-center.desktop" score="13" last-seen="1591559938"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1591559531"/>
+    <application id="com.github.donadigo.eddy.desktop" score="21" last-seen="1591121984"/>
+    <application id="discord.desktop" score="6466" last-seen="1591561242"/>
+    <application id="org.gnome.Nautilus.desktop" score="202" last-seen="1591561189"/>
+    <application id="steam.desktop" score="74" last-seen="1591211246"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="107" last-seen="1591311566"/>
+    <application id="gnome-info-overview-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Calculator.desktop" score="2" last-seen="1591533479"/>
+    <application id="firefox.desktop" score="4" last-seen="1591117309"/>
+    <application id="org.gnome.Terminal.desktop" score="256" last-seen="1591559371"/>
+    <application id="io.elementary.appcenter.desktop" score="66" last-seen="1591524320"/>
+    <application id="gnome-system-monitor.desktop" score="5" last-seen="1591520916"/>
+    <application id="code.desktop" score="804" last-seen="1591561286"/>
+    <application id="net.lutris.Lutris.desktop" score="184" last-seen="1591538191"/>
+  </context>
+</application-state>

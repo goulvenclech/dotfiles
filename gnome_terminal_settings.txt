@@ -1,0 +1,27 @@
+[legacy]
+theme-variant='dark'
+
+[legacy/profiles:]
+default='7e3bc1c4-a529-4b27-a24e-8b1c8c658ed8'
+list=['7e3bc1c4-a529-4b27-a24e-8b1c8c658ed8']
+
+[legacy/profiles:/:7e3bc1c4-a529-4b27-a24e-8b1c8c658ed8]
+background-color='#2f343f'
+background-transparency-percent=5
+bold-color='#f3f4f5'
+bold-color-same-as-fg=true
+foreground-color='#f3f4f5'
+palette=['#262b36', '#9c3528', '#61bc3b', '#f3b43a', '#0d68a8', '#744560', '#288e9c', '#a2a2a2', '#2f343f', '#d64937', '#86df5d', '#fdd75a', '#0f75bd', '#9e5e83', '#37c3d6', '#f9f9f9']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='terminal.sexy'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(64,69,82)'
+background-transparency-percent=6
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(78,154,6)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Perso'

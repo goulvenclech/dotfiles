@@ -1,0 +1,122 @@
+[
+  {
+    "metadata": {
+      "id": "47137038-6832-49c2-a31c-9ad3d95187fc",
+      "publisherId": "Gruntfuggly.activitusbar",
+      "publisherDisplayName": "Gruntfuggly"
+    },
+    "name": "activitusbar",
+    "publisher": "Gruntfuggly",
+    "version": "0.0.34"
+  },
+  {
+    "metadata": {
+      "id": "a3bb6796-b644-4e8b-9b7a-f42f2a69c9e9",
+      "publisherId": "ph-hawkins.arc-plus",
+      "publisherDisplayName": "ph-hawkins"
+    },
+    "name": "arc-plus",
+    "publisher": "ph-hawkins",
+    "version": "1.0.2"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "d3d3123b-1765-4e31-bfab-67b766c99730",
+      "publisherId": "LuqueDaniel.languague-renpy",
+      "publisherDisplayName": "LuqueDaniel"
+    },
+    "name": "languague-renpy",
+    "publisher": "LuqueDaniel",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2020.5.80290"
+  },
+  {
+    "metadata": {
+      "id": "997fc03c-d81e-4815-8bd1-2c4f9a1ac1a5",
+      "publisherId": "glen-84.sass-lint",
+      "publisherDisplayName": "glen-84"
+    },
+    "name": "sass-lint",
+    "publisher": "glen-84",
+    "version": "1.0.6"
+  },
+  {
+    "metadata": {
+      "id": "32d7c6a4-e4fb-462f-b4e7-75f241e9eda3",
+      "publisherId": "adamwalzer.scss-lint",
+      "publisherDisplayName": "adamwalzer"
+    },
+    "name": "scss-lint",
+    "publisher": "adamwalzer",
+    "version": "0.1.10"
+  },
+  {
+    "metadata": {
+      "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+      "publisherId": "octref.vetur",
+      "publisherDisplayName": "octref"
+    },
+    "name": "vetur",
+    "publisher": "octref",
+    "version": "0.24.0"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "2.1.5"
+  },
+  {
+    "metadata": {
+      "id": "55ef6448-487b-49a0-a66e-4d2d9bb82229",
+      "publisherId": "Prisma.vscode-graphql",
+      "publisherDisplayName": "Prisma"
+    },
+    "name": "vscode-graphql",
+    "publisher": "Prisma",
+    "version": "0.2.14"
+  },
+  {
+    "metadata": {
+      "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+      "publisherId": "DavidAnson.vscode-markdownlint",
+      "publisherDisplayName": "DavidAnson"
+    },
+    "name": "vscode-markdownlint",
+    "publisher": "DavidAnson",
+    "version": "0.36.0"
+  },
+  {
+    "metadata": {
+      "id": "ec35b5a3-9802-4c68-b5ff-e85f19ec0977",
+      "publisherId": "stylelint.vscode-stylelint",
+      "publisherDisplayName": "stylelint"
+    },
+    "name": "vscode-stylelint",
+    "publisher": "stylelint",
+    "version": "0.84.0"
+  }
+]
