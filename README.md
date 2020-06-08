@@ -4,7 +4,7 @@
 
 - Distribution: **Pop!_OS** 20.04 LTS
 - WM: **GNOME** 3.36.2
-- Terminal: **Gnome Terminam**
+- Terminal: **Gnome Terminal**
 - Bar: **Dash to Panel**
 - GTK Theme: **Arc theme with Flatabulous**
 - Icons: **Papyrus**
