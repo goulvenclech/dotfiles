@@ -1,17 +1,23 @@
+![preview](./preview.png)
+
 # DOTFILES
 
-Ma configuration, basée sur Pop!_OS (en cours de migration vers Arch) et i3-gaps. Ce répo est destiné à mon utilisation personnelle, mais n'hésitez pas à vous en inspirer !
+Ma configuration, basée sur Arch Linux et i3-gaps. Ce répo est destiné à mon utilisation personnelle, mais n'hésitez pas à vous en inspirer !
 
 ## Configuration
 
-- Distribution: **Pop!_OS** 20.04 LTS
+- Distribution: **Arch Linux**
 - WM: **i3-gaps**
 - Terminal: **Alacritty**
-- Barre: **Polybar**
-- Theme: **Custom** (work in progress)
-- Icons: **Custom** (Work in progress)
+- Shell: **Bash** (mais je vais essayer Fish)
+- Theme: **Custom** (Inspiré par le theme VS Code "Horizon")
 - Editeur: **VS Code**
 
 ## Instalation
 
 (Work in progress)
+
+## Fond d'écran
+
+![preview](./background.jpg)
+*par Cetteup*

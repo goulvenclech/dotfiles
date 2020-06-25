@@ -9,7 +9,8 @@ font pango: Noto Sans 8
 floating_modifier $super
 
 #autostart
-exec --no-startup-id hsetroot -center ~/background.jpg
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec --no-startup-id feh --bg-scale ~/background.jpg
 exec --no-startup-id xsettingsd &
 exec --no-startup-id compton -b
 
@@ -94,7 +95,7 @@ bindsym $super+Shift+6 move container to workspace 6
 bindsym $super+Shift+r restart
 
 # exit i3
-bindsym $super+q exec "i3-nagbar -t warning -m 'Really, exit?' -b 'Yes' 'i3-msg exit'"
+bindsym $super+q exec "i3-nagbar -t warning -m 'Quitter i3 ?' -b 'Oui' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -107,23 +108,10 @@ mode "resize" {
 bindsym $super+r mode "resize"
 
 # panel
-bar {
-        colors {
-        background #1C1E26
-        statusline #2f343f
-        separator #2f343f
 
-        # colour of border, background, and text
-        focused_workspace       #1C1E26 #bf616a #d8dee8
-        active_workspace        #1C1E26 #2f343f #d8dee8
-        inactive_workspace      #1C1E26 #2f343f #d8dee8
-        urgent_workspacei       #1C1E26 #ebcb8b #2f343f
-    }
-        status_command i3status
-}
 
-gaps inner 8
-gaps outer 8
+gaps inner 15
+gaps outer 0
 
 # window rules, you can find the window class using xprop
 for_window [class=".*"] border pixel 4
@@ -144,3 +132,6 @@ client.unfocused            #1C1E26 #2f343f #d8dee8 #2f343f #1C1E26
 client.urgent               #1C1E26 #2f343f #d8dee8 #2f343f #1C1E26
 client.placeholder          #1C1E26 #2f343f #d8dee8 #2f343f #1C1E26
 client.background           #1C1E26
+
+# Multi-screen screenshots with scrot
+bindsym Control+Print exec gnome-screenshot -i
