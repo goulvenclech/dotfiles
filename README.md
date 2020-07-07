@@ -15,7 +15,7 @@ Tous les autres raccourcis sont dans `Config/i3/config`
 ## Configuration
 
 * Distribution: **Arch Linux**
-*- WM: **i3-gaps**
+* WM: **i3-gaps**
 * Terminal: **Alacritty**
 * Shell: **Fish** (et Bash)
 * Thème: **Custom** (Inspiré par le theme VS Code "Horizon")
