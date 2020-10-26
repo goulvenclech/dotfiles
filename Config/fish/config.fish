@@ -50,4 +50,4 @@ function n --wraps nnn --description 'support nnn quit and change directory'
         source $NNN_TMPFILE
         rm $NNN_TMPFILE
     end
-endecho
+end

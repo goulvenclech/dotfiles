@@ -16,7 +16,7 @@ exec --no-startup-id compton -b
 
 # start a terminal
 bindsym $super+Return exec alacritty -e fish
-bindsym $super+Shift+space exec alacritty -e "nnn"
+bindsym $super+Shift+space exec alacritty -e fish --init-command "n"
 
 # start dmenu (a program launcher)
 bindsym $super+space exec rofi -lines 10 -padding 18 -width 30 -location 0 -show drun -sidebar-mode -columns 1 -font 'Noto Sans 10' -icon-theme 'papirus-icon-theme'
